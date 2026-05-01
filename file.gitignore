@@ -1,0 +1,16 @@
+# Файлы с паролями
+src/main/resources/email.properties
+src/main/resources/sms.properties
+
+# Папки сборки
+target/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Логи
+*.log
+
+# Файлы с кодами (тестовые)
+*_code.txt
